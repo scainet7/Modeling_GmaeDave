@@ -13,14 +13,14 @@
 3. [Other](#Other)
 
 ### What is it
-Here are my projects made during the Blender 3D course.
-
-### Projects:
-* #### [WAGON](https://github.com/scainet7/Modeling_GmaeDave/tree/main/WAGON)
 This is my path in learning 3D modeling. Here I will post my works and write comments on them as I develop in modeling.
 I took the development plan after studying the material from the blogger [CG Rush](https://www.youtube.com/@cg_rush) in [video](https://www.youtube.com/watch?v=dlQfSwQKwqE&t=8s).
 The route map can be viewed [here](https://miro.com/app/board/uXjVOR8hRhI=/). I chose the GameDev branch because it is the closest to my skills.
 There will also be links to works not included in the route map, as well as other platforms where I will post works.
+
+### Projects:
+* #### [WAGON](https://github.com/scainet7/Modeling_GmaeDave/tree/main/WAGON)
+The first works and an overview of free courses can be found [here](https://github.com/scainet7/Blender_project?tab=readme-ov-file).
 <!---<div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png" width="300"/>
 </div>--->:
