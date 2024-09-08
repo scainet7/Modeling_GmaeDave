@@ -26,6 +26,8 @@ There will also be links to works not included in the route map, as well as othe
 </div>--->:
 
 ### Other
+The first works and an overview of free courses can be found [here](https://github.com/scainet7/Blender_project?tab=readme-ov-file).
+
 
 ## Содержание
 1. [Что это](#Что-это)
@@ -47,3 +49,4 @@ There will also be links to works not included in the route map, as well as othe
 </div>--->
 
 ### Другое
+С первыми работами и обозреванию бесплатных курсов можно ознакомиться в [здесь](https://github.com/scainet7/Blender_project?tab=readme-ov-file).
