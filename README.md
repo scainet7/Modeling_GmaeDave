@@ -43,7 +43,7 @@ The first works and an overview of free courses can be found [here](https://gith
 
 ### Проекты:
 * #### [Wagon](https://github.com/scainet7/Modeling_GmaeDave/tree/main/WAGON)
-Это мой первый проект, выполненный в процессе бесплатного обучения на курсе от онлайн школы KNOWER. Курс можно найти на странице [Вконтакте](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev). В папке с проектом можно найти изображенрие финального рендера, поэтапные blender файлы и различные материалы.
+Первый проект в марщшрутной карте на данном пути это модель кареты. Подробный бесплатный урок можно найти [здесь](https://www.youtube.com/watch?v=VlvK6Dchd2o&list=PL4Fzlpumqxe2kPhvLlVBN0CXLa5ovk9qA). 
 <!---<div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png" width="300"/>
 </div>--->
