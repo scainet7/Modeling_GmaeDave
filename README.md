@@ -21,9 +21,9 @@ There will also be links to works not included in the route map, as well as othe
 ### Projects:
 * #### [WAGON](https://github.com/scainet7/Modeling_GmaeDave/tree/main/WAGON)
 The first works and an overview of free courses can be found [here](https://github.com/scainet7/Blender_project?tab=readme-ov-file).
-<!---<div id="badges">
-    <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png" width="300"/>
-</div>--->:
+<div id="badges">
+    <img src="https://github.com/scainet7/Modeling_GmaeDave/blob/main/WAGON/Wagon.png" width="300"/>
+</div>
 
 ### Other
 The first works and an overview of free courses can be found [here](https://github.com/scainet7/Blender_project?tab=readme-ov-file).
@@ -44,9 +44,9 @@ The first works and an overview of free courses can be found [here](https://gith
 ### Проекты:
 * #### [Wagon](https://github.com/scainet7/Modeling_GmaeDave/tree/main/WAGON)
 Первый проект в марщшрутной карте на данном пути это модель кареты. Подробный бесплатный урок можно найти [здесь](https://www.youtube.com/watch?v=VlvK6Dchd2o&list=PL4Fzlpumqxe2kPhvLlVBN0CXLa5ovk9qA). 
-<!---<div id="badges">
-    <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png" width="300"/>
-</div>--->
+<div id="badges">
+    <img src="https://github.com/scainet7/Modeling_GmaeDave/blob/main/WAGON/Wagon.png" width="300"/>
+</div>
 
 ### Другое
 С первыми работами и обозреванию бесплатных курсов можно ознакомиться в [здесь](https://github.com/scainet7/Blender_project?tab=readme-ov-file).
